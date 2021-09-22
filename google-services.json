@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239722108518",
+    "project_id": "signinorup-68c61",
+    "storage_bucket": "signinorup-68c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239722108518:android:3c0f52c488a341ef493fa7",
+        "android_client_info": {
+          "package_name": "com.example.signinorup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239722108518-3ipg04oa4i02jpuclq11gbh4v6sknf30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signinorup",
+            "certificate_hash": "32da7cf0d3f9833432788b31858baa6aa9b10573"
+          }
+        },
+        {
+          "client_id": "239722108518-k6qnhpeihspp7m7f72n1bf8o4ermb34a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwrkA2mRxzpaKvdqk42CSbdDk7Cmod_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239722108518-k6qnhpeihspp7m7f72n1bf8o4ermb34a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
